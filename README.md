@@ -6,11 +6,11 @@ how to use:
 
 1) execute in command line:
 
-npm install
+    npm install
 
 2) execute in command line:
 
-node index.js
+    node index.js
 
 3) open in any web browser the following URL:
 
