@@ -4,15 +4,18 @@ node.js example for https://podcastindex.org
 
 how to use:
 
-1) execute in command line:
-
-    npm install
+1) download node.js with npm from https://nodejs.org/en/download/
+(available for mac, Windows, Linux, docker, etc)
 
 2) execute in command line:
 
+    npm install
+
+3) execute in command line:
+
     node index.js
 
-3) open in any web browser the following URL:
+4) open in any web browser the following URL:
 
 http://localhost:3333
 
