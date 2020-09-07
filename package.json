@@ -1,0 +1,27 @@
+{
+  "name": "node.js-podcastindex-org-example",
+  "version": "0.0.33",
+  "description": "node.js example for https://podcastindex.org ",
+  "main": "index.js",
+  "dependencies": {
+    "express": "latest",
+    "node-fetch": "latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ComicStrip/node.js-podcastindex-org-example.git"
+  },
+  "keywords": [
+    "podcasting",
+    "node.js"
+  ],
+  "author": "CSB",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ComicStrip/node.js-podcastindex-org-example/issues"
+  },
+  "homepage": "https://github.com/ComicStrip/node.js-podcastindex-org-example#readme"
+}
