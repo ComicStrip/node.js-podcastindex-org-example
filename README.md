@@ -15,13 +15,6 @@ how to use:
 
     node index.js
 
-4) open in any web browser the following URL:
-
-http://localhost:3333
-
-(or deploy it to your server or cloud platform and then use URL of your server or cloud platform)
-
-
 ***
 
 if you need support regarding this example, you want to give feedback or you have questions, just contact me on Twitter: https://twitter.com/csb
