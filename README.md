@@ -2,6 +2,8 @@
  
 node.js example for https://podcastindex.org
 
+this is original source code written by me (CSB)
+
 how to use:
 
 1) download node.js with npm from https://nodejs.org/en/download/
