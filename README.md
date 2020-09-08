@@ -10,6 +10,7 @@ how to use:
 2) download this repository either via "git clone" or via "Download ZIP" menu under "Code" button
 
 3) replace "ABC" with proper values from https://api.podcastindex.org :
+
     var apiKey = "ABC";
     var apiSecret = "ABC"
 
